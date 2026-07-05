@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# -----------------------------
+# Project Data Files (ignore)
+# -----------------------------
+data/
+*.npy
+*.index
+*.pkl
+*.zip
